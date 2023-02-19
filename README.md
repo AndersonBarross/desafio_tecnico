@@ -12,6 +12,8 @@ criadas telas de: Welcome, Login, Signin, List.
 ![Screen_Login](https://user-images.githubusercontent.com/95106150/219920017-894ac7c4-1f43-492f-8aa8-d8c08d05da93.jpg)
 ![Screen_List](https://user-images.githubusercontent.com/95106150/219920013-26c6a42e-2344-49bf-8730-b88e4e347db5.jpg)
 
+https://user-images.githubusercontent.com/95106150/219922331-9e572e12-9018-4cda-ba97-da9354539559.mp4
+
 Algumas tecnologias utilizadas:
 - Expo;
 - Lottie;
